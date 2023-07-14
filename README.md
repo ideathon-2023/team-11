@@ -1,1 +1,4 @@
-# team-11
+# team-11: NENSIKO
+
+- Tanish Jindal
+- Kashish Jindal
